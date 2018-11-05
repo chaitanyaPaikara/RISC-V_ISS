@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/riscv.dir/riscv.c.o CMakeFiles/riscv.dir/part1.c.o CMakeFiles/riscv.dir/part2.c.o CMakeFiles/riscv.dir/utils.c.o  -o riscv -rdynamic 

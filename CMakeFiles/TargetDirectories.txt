@@ -1,0 +1,3 @@
+/home/chaitanya/RISC-V/Sample/CMakeFiles/rebuild_cache.dir
+/home/chaitanya/RISC-V/Sample/CMakeFiles/edit_cache.dir
+/home/chaitanya/RISC-V/Sample/CMakeFiles/riscv.dir
